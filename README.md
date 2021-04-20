@@ -1,4 +1,3 @@
-!
 
 ### I'm Nicolás, programmer here in Buenos Aires, Argentina.
 I love the challenges, the knowledge and the opportunity to grow working as a team.
