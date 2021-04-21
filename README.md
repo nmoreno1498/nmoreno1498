@@ -2,7 +2,11 @@
 ## Hey Nice to see you! :wave:
 ### Welcome to my page. :grin: :grin:
 <br/>
-<img src="https://image.freepik.com/foto-gratis/concepto-diseno-web-dibujos_1134-77.jpg"/><br/>
+I'm currently working on - Programming Instructor <br>
+I'm currently learning more about - MVC <br>
+
+![](https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 
 
 
