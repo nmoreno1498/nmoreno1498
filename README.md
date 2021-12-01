@@ -5,8 +5,7 @@
 <br>
 :smirk: :smirk: I'm currently learning more about - MVC // React
 <br>
-Que tal, bienvenidos !
-Soy Nicolás desarrollador en .NET, Instructor de programación freelancer.
+Ultimas experiencias !
 
 > Trabajé en desarrollo, soporte, testing de aplicaciones y plataformas low-code. Brindando soporte a Veritran.
 
