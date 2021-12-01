@@ -15,7 +15,10 @@
 - Actualmente realizo soporte en .NET para TCS.
 
 <<<<<<<<<<<<<<<<<<<<<<< :point_up::point_up: >>>>>>>>>>>>>>>>>>>>
-Además soy bilingüe! Portugués Dominio fluido,  Inglés nivel Intermedio.
+
+Además soy bilingüe!
+:point_down:
+Portugués Dominio fluido,  Inglés nivel Intermedio.
 :point_up::point_up:
 
 
