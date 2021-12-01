@@ -20,7 +20,6 @@ Además soy bilingüe!<br>
 :point_down::point_down:
 <br>
 Portugués Dominio fluido<br>  Inglés nivel Intermedio.
-:point_up::point_up:
 
 
 
