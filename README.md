@@ -1,9 +1,9 @@
 
 ## Hey Nice to see you!  :wave:
 ### Welcome to my GitHub. :grin: :grin:
- :eyes: :eyes: I'm currently working like - Programming Instructor
+ :eyes: :eyes: I'm currently working like - .NET  Developer for TCS.
 <br>
-:smirk: :smirk: I'm currently learning more about - MVC
+:smirk: :smirk: I'm currently learning more about - MVC // React
 <br>
 Que tal, bienvenidos !
 Soy Nicolás desarrollador en .NET, Instructor de programación freelancer.
