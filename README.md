@@ -5,6 +5,8 @@
 <br>
 :smirk: :smirk: Ademas me estoy capacitando diariamente en - MVC - React
 <br>
+<br>
+<br>
 Ultimas experiencias !
 
 - Trabajé en desarrollo, soporte, testing de aplicaciones y plataformas low-code. Brindando soporte a Veritran.
