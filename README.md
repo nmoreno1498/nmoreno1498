@@ -1,9 +1,9 @@
 
-## Hey Nice to see you!  :wave:
-### Welcome to my GitHub. :grin: :grin:
- :eyes: :eyes: I'm currently working like - .NET  Developer for TCS.
+## Que onda gente !  :wave:
+### Bienvenidos a mi GitHub. :grin: :grin:
+ :eyes: :eyes: Actualmente trabajo de - .NET  Developer for TCS.
 <br>
-:smirk: :smirk: I'm currently learning more about - MVC // React
+:smirk: :smirk: Ademas me estoy capacitando diariamente en - <MVC> - <React>
 <br>
 Ultimas experiencias !
 
