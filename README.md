@@ -9,7 +9,7 @@ Ultimas experiencias !
 
 > Trabajé en desarrollo, soporte, testing de aplicaciones y plataformas low-code. Brindando soporte a Veritran.
 
->Soy Instructor de programación en progrAmar LTDA (São Paulo)
+>:red Soy Instructor de programación en progrAmar LTDA (São Paulo)
 
 >Actualmente realizo soporte en .NET para TCS.
 
