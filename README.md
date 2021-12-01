@@ -6,7 +6,7 @@
 :smirk: :smirk: I'm currently learning more about - MVC // React
 <br>
 Ultimas experiencias !
-(& # x1F4D7;): ????
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 > Trabajé en desarrollo, soporte, testing de aplicaciones y plataformas low-code. Brindando soporte a Veritran.
 
 >Soy Instructor de programación en progrAmar LTDA (São Paulo)
