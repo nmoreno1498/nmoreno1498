@@ -3,7 +3,7 @@
 ### Bienvenidos a mi GitHub. :grin: :grin:
  :eyes: :eyes: Actualmente trabajo de - .NET  Developer for TCS.
 <br>
-:smirk: :smirk: Ademas me estoy capacitando diariamente en - <MVC> - <React>
+:smirk: :smirk: Ademas me estoy capacitando diariamente en - MVC - React
 <br>
 Ultimas experiencias !
 
