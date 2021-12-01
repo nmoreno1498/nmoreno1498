@@ -6,15 +6,7 @@
 :smirk: :smirk: I'm currently learning more about - MVC // React
 <br>
 Ultimas experiencias !
-::-moz-selection {
-  background-color: #dd2020;
-	color: #fff;
-}
- 
-::selection {
-	background-color: #dd2020;
-	color: #fff;
-}
+(& # x1F4D7;): ????
 > Trabajé en desarrollo, soporte, testing de aplicaciones y plataformas low-code. Brindando soporte a Veritran.
 
 >Soy Instructor de programación en progrAmar LTDA (São Paulo)
