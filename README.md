@@ -15,9 +15,10 @@
 - Actualmente realizo soporte en .NET para TCS.
 
 <<<<<<<<<<<<<<<<<<<<<<< :point_up::point_up: >>>>>>>>>>>>>>>>>>>>
-
+<br>
 Además soy bilingüe!
-<<<<<<<<<<<<<<<<<<<<<<< :point_down::point_down: >>>>>>>>>>>>>>>>>>>>
+:point_down::point_down:
+<br>
 Portugués Dominio fluido<br>  Inglés nivel Intermedio.
 :point_up::point_up:
 
