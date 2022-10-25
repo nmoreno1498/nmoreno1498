@@ -1,9 +1,9 @@
 
 ## Que onda gente !  :wave:
 ### Bienvenidos a mi GitHub. :grin: :grin:
- :eyes: :eyes: Actualmente trabajo de - .NET  Developer for TCS.
+ :eyes: :eyes: Hey hey soy Nicolas Moreno, Desarrollaodor en .NET Framework.
 <br>
-:smirk: :smirk: Ademas me estoy capacitando diariamente en - MVC - React
+:smirk: :smirk: Bienvenidos a mi Github
 <br>
 <br>
                  Ultimas experiencias !
@@ -12,14 +12,13 @@
 
 - Soy Instructor de programación en progrAmar LTDA (São Paulo)
 
-- Actualmente realizo soporte en .NET para TCS.
+- Actualmente desempeño el rol de Assistant System Engineer en Tata Consultancy Services
 
 <<<<<<<<<<<<<<<<<<<<<<< :point_up::point_up: >>>>>>>>>>>>>>>>>>>>
 <br>
 Además soy bilingüe!<br>
+Y también tengo un buen nivel de Ingles!<br>
 :point_down::point_down:
-<br>
-Portugués Dominio fluido<br>  Inglés nivel Intermedio.
 
 
 
