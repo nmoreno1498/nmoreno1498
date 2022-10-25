@@ -3,8 +3,6 @@
 ### Bienvenidos a mi GitHub. :grin: :grin:
  :eyes: :eyes: Hey hey soy Nicolas Moreno, Desarrollaodor en .NET Framework.
 <br>
-:smirk: :smirk: Bienvenidos a mi Github
-<br>
 <br>
                  Ultimas experiencias !
 
