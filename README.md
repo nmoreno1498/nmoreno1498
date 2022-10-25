@@ -16,7 +16,6 @@
 <br>
 Además soy bilingüe!<br>
 Y también tengo un buen nivel de Ingles!<br>
-:point_down::point_down:
 
 
 
